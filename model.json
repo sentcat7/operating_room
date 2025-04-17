@@ -1,0 +1,6 @@
+{
+    "yolo_model": "/home/yangf/yy_algo/yolo8/ultralytics/runs/detect/yolo8_cloth_detect_netsurgey_source2/weights/best.pt",
+    "mmpose_config": "/home/yangf/mm_lab/mmpose/configs/body_2d_keypoint/topdown_heatmap/coco/td-hm_hrnet-w32_8xb64-210e_coco-256x192.py",
+    "mmpose_weights": "/home/yangf/mm_lab/mmpose/checkpoints/hrnet_w32_coco_256x192-c78dce93_20200708.pth",
+    "output_dir": "/home/yangf/algo_yolo/algo_all/yu_pose_cloth/output"
+}
